@@ -1,0 +1,28 @@
+{
+  "name": "yunocustom",
+  "version": "2.0.1",
+  "description": "a fork of better discord anti spam",
+  "main": "yunocustom.js",
+  "bin": "yunocustom.js",
+  "scripts": {
+    "test": "echo \"No test specified\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CoreProtectBot/better-discord-antispam-fr-12.git"
+  },
+  "keywords": [
+    "better",
+    "discord",
+    "antispam",
+    "module",
+    "spam",
+    "discord.js",
+    "mute"
+  ],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CoreProtectBot/better-discord-antispam-fr-12/issues"
+  },
+  "homepage": "https://github.com/CoreProtectBot/better-discord-antispam-fr-12/"
+}
